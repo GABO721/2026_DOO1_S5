@@ -7,7 +7,7 @@
 ---
 
 ## Descripción general del sistema
-Este proyecto trata de una aplicación de consola desarrollada en java para la agencia Llanquihue Tour. Su objetivo principal es leer un archivo de texto con datos de diferentes rutas turísticas, transformar esa información en objetos dentro del programa y organizarlos en una lista dinámica.
+**Este proyecto trata de una aplicación de consola desarrollada en java para la agencia Llanquihue Tour. Su objetivo principal es leer un archivo de texto con datos de diferentes rutas turísticas, transformar esa información en objetos dentro del programa y organizarlos en una lista dinámica.**
 ---
 
 ## Estructura general del proyecto
