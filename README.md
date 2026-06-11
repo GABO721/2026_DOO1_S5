@@ -31,7 +31,7 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 2. Abre un editor de codigo.
 
-3. Ejecuta el archivo `Main.java` desde el paquete `app`.
+3. Ejecuta el archivo `Main.java` ubicado en `src/ui/Main.java`.
 
 ---
 
