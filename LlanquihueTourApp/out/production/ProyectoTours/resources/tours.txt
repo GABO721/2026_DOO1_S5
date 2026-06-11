@@ -1,0 +1,5 @@
+Tour Huar;Privado;1200
+Tour Pescado;Gastronomico;1500
+Tour Alienigena;Aventura;900
+Tour del Carrete;Cultural;2500
+Tour del completo;Gastronomico;600
