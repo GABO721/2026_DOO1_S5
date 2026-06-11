@@ -35,5 +35,5 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 ---
 
-**Repositorio GitHub:** https://github.com/GABO721/2026_DOO1_Exp1.3
+**Repositorio GitHub:** https://github.com/GABO721/llanquihue-tour
 **Fecha de entrega:** 11/06/2026
