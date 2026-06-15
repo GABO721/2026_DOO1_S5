@@ -20,16 +20,11 @@ public class GestorDatos {
         try (BufferedReader br = new BufferedReader(new FileReader(rutaArchivo))) {
             String linea;
 
-            // Lectura de archivo linea por linea
             while ((linea = br.readLine()) != null) {
-
-                // Omitir lineas vacias para prevenir errores
                 if(linea.trim().isEmpty()) continue;
-
-                // Descomponer linea mediante el delimitador punto y coma
+                
                 String[] partes = linea.split(";");
 
-                // Validación de cantidad de columnas estructuradas
                 if(partes.length == 3) {
                     try {
                         // asignación de cada columna de la linea (trim para eliminar posibles espacios)
