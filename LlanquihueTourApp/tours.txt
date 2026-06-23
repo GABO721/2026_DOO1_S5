@@ -1,0 +1,5 @@
+Tour Huar;Privado;1200;Juan Perez
+Tour Pescado;Gastronomico;1500;Pedro Alcachofa
+Tour Alienigena;Aventura;900;Juanito Carlito
+Tour del Carrete;Cultural;2500;Maria Juanita
+Tour del completo;Gastronomico;600;Sebastian Achurra
