@@ -1,4 +1,4 @@
-# Actividad Formativa Exp2 Semana 4 – DOO I
+# Actividad Sumativa Exp2 Semana 5 – DOO I
 - **Nombre completo:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Sección:** 001A
@@ -16,10 +16,9 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 ```plaintext
 📁 src/
-├── data/        # Clase de manejo E/S
+├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio
-├── resources/   # Archivo de texto
-├── ui/          # Clase principal con el método main
+├── service/     # Clase de lógica de negocio y lectura de datos
 ````
 
 ---
@@ -31,9 +30,9 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 2. Abre un editor de codigo.
 
-3. Ejecuta el archivo `Main.java` ubicado en `src/ui/Main.java`.
+3. Ejecuta el archivo `Main.java` ubicado en `src/app/Main.java`.
 
 ---
 
 **Repositorio GitHub:** https://github.com/GABO721/llanquihue-tour
-**Fecha de entrega:** 11/06/2026
+**Fecha de entrega:** 22/06/2026
