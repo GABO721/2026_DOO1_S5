@@ -1,4 +1,4 @@
-# Actividad Sumativa Exp2 Semana 5 – DOO I
+# Actividad Sumativa Semana 5 – DOO I
 - **Nombre completo:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Sección:** 001A
@@ -34,5 +34,4 @@ Este proyecto trata de una aplicación de consola desarrollada en java para la a
 
 ---
 
-**Repositorio GitHub:** https://github.com/GABO721/llanquihue-tour
 **Fecha de entrega:** 22/06/2026
